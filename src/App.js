@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         This is a workshop about how to create a react app using github
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://app.lokum.tech/dashboard"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         hey...We learned it...
         </a>
       </header>
     </div>
